@@ -2,6 +2,7 @@
   "name": "n8n-fight-v2",
   "version": "1.0.0",
   "dependencies": {
-    "discord-interactions": "^3.4.0"
+    "discord-interactions": "^3.4.0",
+    "mongodb": "^6.3.0"
   }
 }
